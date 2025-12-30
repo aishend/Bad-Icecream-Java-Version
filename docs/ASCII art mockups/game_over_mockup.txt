@@ -1,0 +1,13 @@
+SweetRush - Game Over Mockup
+
++-----------------------------+
+|         GAME OVER           |
+|                             |
+|       Final Score: 150      |
+|                             |
+|          > Try Again        |
+|            Exit             |
+|                             |
+|   Use arrow keys to select  |
+|   Press Enter to confirm    |
++-----------------------------+

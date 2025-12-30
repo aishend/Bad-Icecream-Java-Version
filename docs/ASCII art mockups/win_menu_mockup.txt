@@ -1,0 +1,15 @@
+SweetRush - Win Menu Mockup
+
++-----------------------------+
+|          LEVEL COMPLETE     |
+|                             |
+|       Score: 500            |
+|       Time Bonus: 100       |
+|       Total: 600            |
+|                             |
+|          > Next Level       |
+|            Main Menu        |
+|                             |
+|   Use arrow keys to select  |
+|   Press Enter to confirm    |
++-----------------------------+

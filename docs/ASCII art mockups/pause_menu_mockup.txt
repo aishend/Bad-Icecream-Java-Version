@@ -1,0 +1,12 @@
+SweetRush - Pause Menu Mockup
+
++-----------------------------+
+|          PAUSED             |
+|                             |
+|          > Resume           |
+|            Main Menu        |
+|            Exit             |
+|                             |
+|   Use arrow keys to select  |
+|   Press Enter to confirm    |
++-----------------------------+

@@ -1,0 +1,13 @@
+SweetRush - Main Menu Mockup
+
++-----------------------------+
+|         SweetRush           |
+|                             |
+|          > Play             |
+|            Scores           |
+|            Help             |
+|            Exit             |
+|                             |
+|   Use arrow keys to select  |
+|   Press Enter to confirm    |
++-----------------------------+

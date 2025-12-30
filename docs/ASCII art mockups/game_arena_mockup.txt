@@ -1,0 +1,28 @@
+SweetRush - Game Arena Mockup (Level 1)
+
+Score: 0    Lives: 3    Time: 00:00
+
+##############################
+#                            #
+#  @                         #
+#                            #
+#     M                      #
+#                            #
+#         R                  #
+#                            #
+#                            #
+#             W              #
+#                            #
+#                            #
+#                            #
+#                            #
+##############################
+
+Legend:
+@ - Player
+M - Monster
+R - Red Candy
+# - Wall
+W - Marshmallow Wall
+
+Controls: Arrow keys to move, Space to build/destroy walls

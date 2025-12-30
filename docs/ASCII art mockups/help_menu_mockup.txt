@@ -1,0 +1,18 @@
+SweetRush - Help Menu Mockup
+
++-----------------------------+
+|           HELP              |
+|                             |
+|  Objective: Collect all     |
+|  candies while avoiding     |
+|  monsters.                  |
+|                             |
+|  Controls:                  |
+|  - Arrows: Move             |
+|  - Space: Build/Destroy     |
+|    walls                    |
+|                             |
+|          > Back             |
+|                             |
+|   Press Enter to go back    |
++-----------------------------+
